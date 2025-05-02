@@ -1,1 +1,35 @@
 /* This is where I'll add CSS styles */ 
+
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header styles */
+header {
+    background-color: #1F2937;
+    padding: 1rem 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 24px;
+}
+
+nav a {
+    color: #E5E7EB;
+    text-decoration: none;
+    font-size: 18px;
+} 
