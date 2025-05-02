@@ -121,4 +121,30 @@ nav a {
     color: #4B5563;
     font-size: 1.125rem;
     text-align: center;
+}
+
+/* Quote section */
+.quote-section {
+    background-color: #E5E7EB;
+    padding: 7rem 15%;
+}
+
+.quote-container {
+    max-width: 50rem;
+    margin: 0 auto;
+}
+
+.quote {
+    font-size: 2.25rem;
+    font-style: italic;
+    font-weight: 300;
+    color: #1F2937;
+    margin-bottom: 1rem;
+}
+
+.quote-attribution {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: right;
+    color: #1F2937;
 } 
