@@ -151,4 +151,34 @@ nav a {
     font-weight: bold;
     text-align: right;
     color: #1F2937;
+}
+
+/* Call to action section */
+.cta-section {
+    padding: 5rem 15%;
+}
+
+.cta-container {
+    background-color: #3882F6;
+    padding: 3rem;
+    border-radius: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+
+.cta-text h3 {
+    color: #F9FAF8;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.cta-text p {
+    color: #E5E7EB;
+}
+
+.cta-button {
+    border: 2px solid #F9FAF8;
+    flex-shrink: 0;
 } 
