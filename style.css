@@ -18,18 +18,18 @@ header {
 
 .logo {
     color: #F9FAF8;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: bold;
 }
 
 nav ul {
     list-style: none;
     display: flex;
-    gap: 24px;
+    gap: 1.5rem;
 }
 
 nav a {
     color: #E5E7EB;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 1.125rem;
 } 
